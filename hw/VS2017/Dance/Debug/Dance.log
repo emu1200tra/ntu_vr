@@ -1,0 +1,65 @@
+﻿  script.cpp
+c:\users\dragonkao730\desktop\dance_cpp\script.cpp(122): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\script.cpp(123): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\script.cpp(124): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\script.cpp(129): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\script.cpp(147): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\script.cpp(148): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\script.cpp(149): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  music.cpp
+  main.cpp
+  dance.cpp
+c:\users\dragonkao730\desktop\dance_cpp\dance.cpp(43): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\dragonkao730\desktop\dance_cpp\dance.cpp(43): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\dance.cpp(44): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\dragonkao730\desktop\dance_cpp\dance.cpp(44): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\dance.cpp(47): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\dragonkao730\desktop\dance_cpp\dance.cpp(47): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\dance.cpp(97): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  actor.cpp
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(38): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(43): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(49): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(51): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(57): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(62): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(68): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(70): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(120): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(126): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(129): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(134): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(139): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(141): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(146): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(148): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(152): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(154): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(158): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(160): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(165): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(167): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(171): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(173): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(177): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(178): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(179): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(184): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(185): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(186): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(192): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(198): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(199): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(200): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(205): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(206): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(207): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(213): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(374): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(395): warning C4244: '引數': 將 'float' 轉換為 'const int'，由於類型不同，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(411): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\dragonkao730\desktop\dance_cpp\actor.cpp(445): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  Dance.vcxproj -> C:\Users\dragonkao730\Desktop\dance_cpp\VS2017\Debug\Dance.exe
+  Dance.vcxproj -> C:\Users\dragonkao730\Desktop\dance_cpp\VS2017\Debug\Dance.pdb (Partial PDB)
+  複製了         1 個檔案。
